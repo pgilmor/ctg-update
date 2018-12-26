@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>A resolution designating the week of January 22 through January 28, 2017, as "National School Choice Week".</title>
+    <sponsors>
+      <item>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <lastName>Scott</lastName>
+        <identifiers>
+          <lisID>2056</lisID>
+          <gpoId>8141</gpoId>
+          <bioguideId>S001184</bioguideId>
+        </identifiers>
+        <bioguideId>S001184</bioguideId>
+        <firstName>Tim</firstName>
+        <middleName />
+        <byRequestType />
+        <party>R</party>
+        <state>SC</state>
+      </item>
+    </sponsors>
+    <amendments />
+    <introducedDate>2017-01-24</introducedDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution designating the week of January 22 through January 28, 2017, as "National School Choice Week".</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution designating the week of January 22 through January 28, 2017, as "National School Choice Week".</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <committees>
+      <billCommittees />
+    </committees>
+    <billNumber>26</billNumber>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Designates the week of January 22-January 28, 2017, as National School Choice Week. Encourages all parents to learn more about the educational options available.</p>]]></text>
+          <actionDate>2017-01-24</actionDate>
+          <lastSummaryUpdateDate>2017-01-27T19:21:47Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <updateDate>2017-01-24T05:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates the week of January 22-January 28, 2017, as National School Choice Week. Encourages all parents to learn more about the educational options available.</p>]]></text>
+          <actionDate>2017-01-24</actionDate>
+          <lastSummaryUpdateDate>2017-01-31T17:48:59Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <versionCode>82</versionCode>
+          <updateDate>2017-01-24T16:02:26Z</updateDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <updateDate>2018-09-19T14:20:26Z</updateDate>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <relatedBills>
+      <item>
+        <type>SRES</type>
+        <latestAction>
+          <actionDate>2018-01-25</actionDate>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S526; text: CR S524)</text>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>A resolution designating the week of January 21 through January 27, 2018, as "National School Choice Week".</latestTitle>
+        <number>381</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HRES</type>
+        <latestAction>
+          <actionDate>2018-01-18</actionDate>
+          <text>Referred to the House Committee on Education and the Workforce.</text>
+        </latestAction>
+        <congress>115</congress>
+        <latestTitle>Designating the week of January 21 through January 27, 2018, as "National School Choice Week".</latestTitle>
+        <number>703</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>School administration</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-01-25T04:45:56Z</createDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>Lamar</firstName>
+        <bioguideId>A000360</bioguideId>
+        <party>R</party>
+        <lastName>Alexander</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1695</lisID>
+          <bioguideId>A000360</bioguideId>
+          <gpoId>8304</gpoId>
+        </identifiers>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>TN</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>DIANNE</firstName>
+        <bioguideId>F000062</bioguideId>
+        <party>D</party>
+        <lastName>FEINSTEIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>Bill</firstName>
+        <bioguideId>C001075</bioguideId>
+        <party>R</party>
+        <lastName>Cassidy</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7964</gpoId>
+          <bioguideId>C001075</bioguideId>
+          <lisID>1925</lisID>
+        </identifiers>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>LA</state>
+      </item>
+      <item>
+        <middleName>SIDNEY</middleName>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>JOHN</firstName>
+        <bioguideId>M000303</bioguideId>
+        <party>R</party>
+        <lastName>MCCAIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M000303</bioguideId>
+          <lisID>754</lisID>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>AZ</state>
+      </item>
+      <item>
+        <middleName>Roland</middleName>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>Thomas</firstName>
+        <bioguideId>T000476</bioguideId>
+        <party>R</party>
+        <lastName>Tillis</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+          <lisID>2291</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+      </item>
+      <item>
+        <middleName>GRANT</middleName>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>ORRIN</firstName>
+        <bioguideId>H000338</bioguideId>
+        <party>R</party>
+        <lastName>HATCH</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+        </identifiers>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>UT</state>
+      </item>
+      <item>
+        <middleName>Alfred</middleName>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>David</firstName>
+        <bioguideId>P000612</bioguideId>
+        <party>R</party>
+        <lastName>Perdue</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2286</lisID>
+          <gpoId />
+          <bioguideId>P000612</bioguideId>
+        </identifiers>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+      </item>
+      <item>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>ROGER</firstName>
+        <bioguideId>W000437</bioguideId>
+        <party>R</party>
+        <lastName>WICKER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+        </identifiers>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>Marco</firstName>
+        <bioguideId>R000595</bioguideId>
+        <party>R</party>
+        <lastName>Rubio</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>Steve</firstName>
+        <bioguideId>D000618</bioguideId>
+        <party>R</party>
+        <lastName>Daines</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2138</lisID>
+          <gpoId />
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MT</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>John</firstName>
+        <bioguideId>B001236</bioguideId>
+        <party>R</party>
+        <lastName>Boozman</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>AR</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>Ron</firstName>
+        <bioguideId>J000293</bioguideId>
+        <party>R</party>
+        <lastName>Johnson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>John</firstName>
+        <bioguideId>C001056</bioguideId>
+        <party>R</party>
+        <lastName>Cornyn</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>Ted</firstName>
+        <bioguideId>C001098</bioguideId>
+        <party>R</party>
+        <lastName>Cruz</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+      </item>
+      <item>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>Todd</firstName>
+        <bioguideId>Y000064</bioguideId>
+        <party>R</party>
+        <lastName>Young</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2019</lisID>
+          <gpoId>7948</gpoId>
+          <bioguideId>Y000064</bioguideId>
+        </identifiers>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>IN</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>MITCH</firstName>
+        <bioguideId>M000355</bioguideId>
+        <party>R</party>
+        <lastName>MCCONNELL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1395</lisID>
+          <gpoId>8254</gpoId>
+          <bioguideId>M000355</bioguideId>
+        </identifiers>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>KY</state>
+      </item>
+      <item>
+        <middleName>B.</middleName>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>MICHAEL</firstName>
+        <bioguideId>E000285</bioguideId>
+        <party>R</party>
+        <lastName>ENZI</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1542</lisID>
+          <gpoId>8328</gpoId>
+          <bioguideId>E000285</bioguideId>
+        </identifiers>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>WY</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>Cory</firstName>
+        <bioguideId>G000562</bioguideId>
+        <party>R</party>
+        <lastName>Gardner</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CO</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>James</firstName>
+        <bioguideId>L000575</bioguideId>
+        <party>R</party>
+        <lastName>Lankford</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8113</gpoId>
+          <bioguideId>L000575</bioguideId>
+          <lisID>2050</lisID>
+        </identifiers>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <firstName>Pat</firstName>
+        <bioguideId>T000461</bioguideId>
+        <party>R</party>
+        <lastName>Toomey</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000461</bioguideId>
+          <lisID>1594</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-01-24</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S456; text as passed Senate: CR S455)</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S455</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S455</url>
+          </link>
+          <link>
+            <name>S456</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S456</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S456; text as passed Senate: CR S455)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>S455</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S455</url>
+          </link>
+          <link>
+            <name>S456</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S456</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S456; text as passed Senate: CR S455)</text>
+        <actionDate>2017-01-24</actionDate>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2017-01-24</actionDate>
+      </item>
+    </actions>
+    <billType>SRES</billType>
+    <notes />
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

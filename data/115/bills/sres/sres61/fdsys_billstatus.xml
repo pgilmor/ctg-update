@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-02-15</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1220-1221</url>
+            <name>S1220-1221</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1220-1221)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-02-15</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in Senate</text>
+      </item>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <billNumber>61</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfr00</systemCode>
+          <type>Standing</type>
+          <name>Foreign Relations Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-15T20:07:07Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>A resolution calling on the Department of Defense, other elements of the Federal Government, and foreign governments to intensify efforts to investigate, recover, and identify all missing and unaccounted-for personnel of the United States.</title>
+    <billType>SRES</billType>
+    <updateDate>2018-09-26T08:36:56Z</updateDate>
+    <sponsors>
+      <item>
+        <firstName>JOHN</firstName>
+        <state>AZ</state>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <middleName>SIDNEY</middleName>
+        <byRequestType />
+        <lastName>MCCAIN</lastName>
+        <identifiers>
+          <gpoId>8253</gpoId>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+        </identifiers>
+        <bioguideId>M000303</bioguideId>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2018-02-14</actionDate>
+          <text>Motion to reconsider laid on the table. Agreed to without objection.</text>
+          <actionTime>14:06:21</actionTime>
+        </latestAction>
+        <latestTitle>Calling on the Department of Defense, other appropriate elements of the Federal Government, and foreign governments to resolutely continue efforts to investigate, recover, and identify all United States personnel designated as unaccounted-for from past wars and conflicts around the world.</latestTitle>
+        <congress>115</congress>
+        <type>HRES</type>
+        <number>129</number>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <latestAction>
+      <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1220-1221)</text>
+      <actionDate>2017-02-15</actionDate>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <notes />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Conflicts and wars</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <congress>115</congress>
+    <originChamber>Senate</originChamber>
+    <createDate>2017-02-16T08:49:52Z</createDate>
+    <cosponsors>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <firstName>Angus</firstName>
+        <lastName>King</lastName>
+        <party>I</party>
+        <middleName />
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <state>ME</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C000880</bioguideId>
+        <firstName>MICHAEL</firstName>
+        <lastName>CRAPO</lastName>
+        <party>R</party>
+        <middleName>D.</middleName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <state>ID</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+          <lisID>250</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000595</bioguideId>
+        <firstName>Gary</firstName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <state>MI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+          <lisID>1929</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <firstName>John</firstName>
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-09-12</sponsorshipDate>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001095</bioguideId>
+        <firstName>Tom</firstName>
+        <lastName>Cotton</lastName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <state>AR</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2098</lisID>
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2017-10-17</sponsorshipDate>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000607</bioguideId>
+        <firstName>Joe</firstName>
+        <lastName>Donnelly</lastName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2018-02-14</sponsorshipDate>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <state>IN</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000607</bioguideId>
+          <lisID>1850</lisID>
+          <gpoId>7941</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>T000461</bioguideId>
+        <firstName>Pat</firstName>
+        <lastName>Toomey</lastName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2018-03-20</sponsorshipDate>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1594</lisID>
+          <bioguideId>T000461</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>I000055</bioguideId>
+        <firstName>Johnny</firstName>
+        <lastName>Isakson</lastName>
+        <party>R</party>
+        <middleName />
+        <sponsorshipDate>2018-06-28</sponsorshipDate>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <state>GA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <firstName>DIANNE</firstName>
+        <lastName>FEINSTEIN</lastName>
+        <party>D</party>
+        <middleName />
+        <sponsorshipDate>2018-07-11</sponsorshipDate>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <state>CA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>N000032</bioguideId>
+        <firstName>CLARENCE</firstName>
+        <lastName>NELSON</lastName>
+        <party>D</party>
+        <middleName>WILLIAM</middleName>
+        <sponsorshipDate>2018-07-17</sponsorshipDate>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8236</gpoId>
+          <lisID>859</lisID>
+          <bioguideId>N000032</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S000770</bioguideId>
+        <firstName>DEBORAH</firstName>
+        <lastName>STABENOW</lastName>
+        <party>D</party>
+        <middleName>ANN</middleName>
+        <sponsorshipDate>2018-09-06</sponsorshipDate>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <state>MI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000612</bioguideId>
+        <firstName>David</firstName>
+        <lastName>Perdue</lastName>
+        <party>R</party>
+        <middleName>Alfred</middleName>
+        <sponsorshipDate>2018-09-25</sponsorshipDate>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <state>GA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>P000612</bioguideId>
+          <gpoId />
+          <lisID>2286</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDate>2017-02-15</actionDate>
+          <lastSummaryUpdateDate>2017-02-22T16:44:39Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>Calls upon: (1) the Defense POW/MIA Accounting Agency, other elements of the Department of Defense and the federal government, and all foreign governments to intensify efforts to investigate, recover, identify and account for all missing and unaccounted-for U.S. personnel; and (2) all foreign governments with information on missing U.S. personnel, or with missing U.S. personnel within their territories, to cooperate fully with the U.S. government to provide the fullest possible accounting for all missing U.S. personnel.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-02-15T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-02-15</introducedDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>A resolution calling on the Department of Defense, other elements of the Federal Government, and foreign governments to intensify efforts to investigate, recover, and identify all missing and unaccounted-for personnel of the United States.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <title>A resolution calling on the Department of Defense, other elements of the Federal Government, and foreign governments to intensify efforts to investigate, recover, and identify all missing and unaccounted-for personnel of the United States.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

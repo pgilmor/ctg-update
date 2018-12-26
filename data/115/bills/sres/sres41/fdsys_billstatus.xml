@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>A resolution raising awareness and encouraging the prevention of stalking by designating January 2017 as "National Stalking Awareness Month".</title>
+    <sponsors>
+      <item>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <bioguideId>K000367</bioguideId>
+        <firstName>Amy</firstName>
+        <middleName />
+        <byRequestType />
+        <party>D</party>
+        <state>MN</state>
+      </item>
+    </sponsors>
+    <amendments />
+    <introducedDate>2017-02-01</introducedDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution raising awareness and encouraging the prevention of stalking by designating January 2017 as "National Stalking Awareness Month".</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>A resolution raising awareness and encouraging the prevention of stalking by designating January 2017 as "National Stalking Awareness Month".</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees />
+    </committees>
+    <billNumber>41</billNumber>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-02-03T22:36:40Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2017-02-01T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Designates January 2017 as National Stalking Awareness Month.</p> <p>Applauds the efforts of service providers, police, prosecutors, national and community organizations, campuses, and private sector supporters to promote awareness of stalking.</p> <p>Encourages increased awareness of stalking and the availability of services for stalking victims. </p> <p>Urges national and community organizations, private businesses, and the media to promote awareness of the crime of stalking through National Stalking Awareness Month.</p>]]></text>
+          <actionDate>2017-02-01</actionDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-02-07T19:27:56Z</lastSummaryUpdateDate>
+          <versionCode>82</versionCode>
+          <updateDate>2017-02-01T14:47:20Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates January 2017 as National Stalking Awareness Month.</p> <p>Applauds the efforts of service providers, police, prosecutors, national and community organizations, campuses, and private sector supporters to promote awareness of stalking.</p> <p>Encourages increased awareness of stalking and the availability of services for stalking victims. </p> <p>Urges national and community organizations, private businesses, and the media to promote awareness of the crime of stalking through National Stalking Awareness Month.</p>]]></text>
+          <actionDate>2017-02-01</actionDate>
+          <name>Passed Senate without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <updateDate>2018-09-19T14:20:31Z</updateDate>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-02-02T05:28:47Z</createDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <bioguideId>P000612</bioguideId>
+        <middleName>Alfred</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <identifiers>
+          <lisID>2286</lisID>
+          <gpoId />
+          <bioguideId>P000612</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <party>R</party>
+        <state>GA</state>
+        <lastName>Perdue</lastName>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001042</bioguideId>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mazie</firstName>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <party>D</party>
+        <state>HI</state>
+        <lastName>Hirono</lastName>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000880</bioguideId>
+        <middleName>D.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>MICHAEL</firstName>
+        <identifiers>
+          <gpoId>8289</gpoId>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <party>R</party>
+        <state>ID</state>
+        <lastName>CRAPO</lastName>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>DIANNE</firstName>
+        <identifiers>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <party>D</party>
+        <state>CA</state>
+        <lastName>FEINSTEIN</lastName>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-02-01</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S604; text as passed Senate: CR S603-604)</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S603-604</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S603-604</url>
+          </link>
+          <link>
+            <name>S604</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S604</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S604; text as passed Senate: CR S603-604)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>S603-604</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S603-604</url>
+          </link>
+          <link>
+            <name>S604</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S604</url>
+          </link>
+        </links>
+        <actionDate>2017-02-01</actionDate>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S604; text as passed Senate: CR S603-604)</text>
+        <committee />
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionDate>2017-02-01</actionDate>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <billType>SRES</billType>
+    <notes />
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

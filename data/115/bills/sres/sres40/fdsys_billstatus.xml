@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <lastName>Heitkamp</lastName>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <identifiers>
+          <bioguideId>H001069</bioguideId>
+          <lisID>2174</lisID>
+          <gpoId />
+        </identifiers>
+        <state>ND</state>
+        <bioguideId>H001069</bioguideId>
+        <firstName>Heidi</firstName>
+        <byRequestType />
+        <party>D</party>
+        <middleName />
+      </item>
+    </sponsors>
+    <updateDate>2018-09-19T14:20:31Z</updateDate>
+    <laws />
+    <introducedDate>2017-02-01</introducedDate>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2018-02-09</actionDate>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S852-853; text: CR S851)</text>
+        </latestAction>
+        <type>SRES</type>
+        <latestTitle>A resolution designating the week beginning February 11, 2018, as "National Tribal Colleges and Universities Week".</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <number>400</number>
+      </item>
+    </relatedBills>
+    <title>A resolution designating the week beginning on February 5, 2017, as "National Tribal Colleges and Universities Week".</title>
+    <notes />
+    <originChamber>Senate</originChamber>
+    <committeeReports />
+    <calendarNumbers />
+    <recordedVotes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Minority education</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>Designates the week beginning on February 5, 2017, as National Tribal Colleges and Universities Week.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <actionDate>2017-02-01</actionDate>
+          <lastSummaryUpdateDate>2017-02-07T19:28:07Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-01T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates the week beginning on February 5, 2017, as National Tribal Colleges and Universities Week.</p>]]></text>
+          <name>Passed Senate without amendment</name>
+          <actionDate>2017-02-01</actionDate>
+          <lastSummaryUpdateDate>2017-03-06T19:15:17Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-01T19:01:21Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S604; text as passed Senate: CR S603)</text>
+      <actionDate>2017-02-01</actionDate>
+      <links />
+    </latestAction>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A resolution designating the week beginning on February 5, 2017, as "National Tribal Colleges and Universities Week".</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A resolution designating the week beginning on February 5, 2017, as "National Tribal Colleges and Universities Week".</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <bioguideId>L000575</bioguideId>
+        <middleName />
+        <state>OK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>James</firstName>
+        <identifiers>
+          <gpoId>8113</gpoId>
+          <bioguideId>L000575</bioguideId>
+          <lisID>2050</lisID>
+        </identifiers>
+        <lastName>Lankford</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <bioguideId>S000770</bioguideId>
+        <middleName>ANN</middleName>
+        <state>MI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>DEBORAH</firstName>
+        <identifiers>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+        </identifiers>
+        <lastName>STABENOW</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <bioguideId>B001230</bioguideId>
+        <middleName />
+        <state>WI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>TAMMY</firstName>
+        <identifiers>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <lastName>BALDWIN</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <bioguideId>S001194</bioguideId>
+        <middleName />
+        <state>HI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Brian</firstName>
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <lastName>Schatz</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <bioguideId>U000039</bioguideId>
+        <middleName />
+        <state>NM</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>TOM</firstName>
+        <identifiers>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <lastName>UDALL</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <bioguideId>T000250</bioguideId>
+        <middleName>R.</middleName>
+        <state>SD</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <lastName>THUNE</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <bioguideId>M000934</bioguideId>
+        <middleName />
+        <state>KS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>JERRY</firstName>
+        <identifiers>
+          <gpoId>8307</gpoId>
+          <bioguideId>M000934</bioguideId>
+          <lisID>1507</lisID>
+        </identifiers>
+        <lastName>MORAN</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <bioguideId>T000464</bioguideId>
+        <middleName />
+        <state>MT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Jon</firstName>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <lastName>Tester</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <bioguideId>H001046</bioguideId>
+        <middleName />
+        <state>NM</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Martin</firstName>
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <lastName>Heinrich</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <bioguideId>D000618</bioguideId>
+        <middleName />
+        <state>MT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <lisID>2138</lisID>
+          <gpoId />
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <lastName>Daines</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <bioguideId>H001061</bioguideId>
+        <middleName />
+        <state>ND</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>John</firstName>
+        <identifiers>
+          <bioguideId>H001061</bioguideId>
+          <lisID>2079</lisID>
+          <gpoId>8331</gpoId>
+        </identifiers>
+        <lastName>Hoeven</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <bioguideId>K000367</bioguideId>
+        <middleName />
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Amy</firstName>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <lastName>Klobuchar</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <bioguideId>M001111</bioguideId>
+        <middleName />
+        <state>WA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>PATTY</firstName>
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <lastName>MURRAY</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <bioguideId>F000457</bioguideId>
+        <middleName />
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Al</firstName>
+        <identifiers>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+          <bioguideId>F000457</bioguideId>
+        </identifiers>
+        <lastName>Franken</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <bioguideId>P000595</bioguideId>
+        <middleName>C.</middleName>
+        <state>MI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Gary</firstName>
+        <identifiers>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <lastName>Peters</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <bioguideId>H001042</bioguideId>
+        <middleName>K.</middleName>
+        <state>HI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <firstName>Mazie</firstName>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+        </identifiers>
+        <lastName>Hirono</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <bioguideId>B001261</bioguideId>
+        <middleName />
+        <state>WY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1881</lisID>
+          <gpoId>8300</gpoId>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <lastName>Barrasso</lastName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <amendments />
+    <billNumber>40</billNumber>
+    <version>1.0.0</version>
+    <congress>115</congress>
+    <createDate>2017-02-02T05:28:47Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S603</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S603</url>
+          </link>
+          <link>
+            <name>S604</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S604</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S604; text as passed Senate: CR S603)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S604; text as passed Senate: CR S603)</text>
+        <actionDate>2017-02-01</actionDate>
+        <links>
+          <link>
+            <name>S603</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S603</url>
+          </link>
+          <link>
+            <name>S604</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S604</url>
+          </link>
+        </links>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <actionDate>2017-02-01</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees />
+    </committees>
+    <billType>SRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

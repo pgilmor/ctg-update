@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-02-03</introducedDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <title>A resolution designating February 2017 as "American Heart Month" and February 3, 2017, as "National Wear Red Day".</title>
+    <billType>SRES</billType>
+    <amendments />
+    <createDate>2017-02-04T05:07:07Z</createDate>
+    <committeeReports />
+    <billNumber>45</billNumber>
+    <originChamber>Senate</originChamber>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Neurological disorders</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <relatedBills>
+      <item>
+        <number>403</number>
+        <latestAction>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S887; text: CR S878)</text>
+          <actionDate>2018-02-12</actionDate>
+        </latestAction>
+        <latestTitle>A resolution designating February 2018 as "American Heart Month" and February 2, 2018, as "National Wear Red Day".</latestTitle>
+        <type>SRES</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <firstName>Lisa</firstName>
+        <bioguideId>M001153</bioguideId>
+        <party>R</party>
+        <lastName>Murkowski</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>AK</state>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <firstName>Elizabeth</firstName>
+        <bioguideId>W000817</bioguideId>
+        <party>D</party>
+        <lastName>Warren</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+      </item>
+      <item>
+        <middleName>Wood</middleName>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <firstName>Margaret</firstName>
+        <bioguideId>H001076</bioguideId>
+        <party>D</party>
+        <lastName>Hassan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2302</lisID>
+          <gpoId />
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <firstName>Deb</firstName>
+        <bioguideId>F000463</bioguideId>
+        <party>R</party>
+        <lastName>Fischer</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NE</state>
+      </item>
+      <item>
+        <middleName>ANN</middleName>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <firstName>DEBORAH</firstName>
+        <bioguideId>S000770</bioguideId>
+        <party>D</party>
+        <lastName>STABENOW</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+        </identifiers>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <firstName>Jeanne</firstName>
+        <bioguideId>S001181</bioguideId>
+        <party>D</party>
+        <lastName>Shaheen</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <firstName>TAMMY</firstName>
+        <bioguideId>B001230</bioguideId>
+        <party>D</party>
+        <lastName>BALDWIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+      </item>
+      <item>
+        <middleName>MOORE</middleName>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <firstName>SHELLEY</firstName>
+        <bioguideId>C001047</bioguideId>
+        <party>R</party>
+        <lastName>CAPITO</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>WV</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <firstName>Heidi</firstName>
+        <bioguideId>H001069</bioguideId>
+        <party>D</party>
+        <lastName>Heitkamp</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001069</bioguideId>
+          <lisID>2174</lisID>
+          <gpoId />
+        </identifiers>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>ND</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <firstName>DIANNE</firstName>
+        <bioguideId>F000062</bioguideId>
+        <party>D</party>
+        <lastName>FEINSTEIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <firstName>Amy</firstName>
+        <bioguideId>K000367</bioguideId>
+        <party>D</party>
+        <lastName>Klobuchar</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+      </item>
+      <item>
+        <middleName>MARGARET</middleName>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <firstName>SUSAN</firstName>
+        <bioguideId>C001035</bioguideId>
+        <party>R</party>
+        <lastName>COLLINS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <firstName>MARIA</firstName>
+        <bioguideId>C000127</bioguideId>
+        <party>D</party>
+        <lastName>CANTWELL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+        </identifiers>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <firstName>PATTY</firstName>
+        <bioguideId>M001111</bioguideId>
+        <party>D</party>
+        <lastName>MURRAY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <firstName>RICHARD</firstName>
+        <bioguideId>D000563</bioguideId>
+        <party>D</party>
+        <lastName>DURBIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <firstName>Tammy</firstName>
+        <bioguideId>D000622</bioguideId>
+        <party>D</party>
+        <lastName>Duckworth</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution designating February 2017 as "American Heart Month" and February 3, 2017, as "National Wear Red Day".</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution designating February 2017 as "American Heart Month" and February 3, 2017, as "National Wear Red Day".</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-02-14T19:12:23Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-03T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Designates February 2017 as American Heart Month and February 3, 2017, as National Wear Red Day.</p> <p>Recognizes and reaffirms the commitment to fighting heart disease and stroke by promoting awareness of causes, risks, and prevention, supporting research, and expanding access to medical treatment.</p> <p>Encourages individuals to learn about their risk for heart disease.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-02-03</actionDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <lastSummaryUpdateDate>2017-02-16T14:54:23Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-10T14:36:48Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates February 2017 as American Heart Month and February 3, 2017, as National Wear Red Day.</p> <p>Recognizes and reaffirms the commitment to fighting heart disease and stroke by promoting awareness of causes, risks, and prevention, supporting research, and expanding access to medical treatment.</p> <p>Encourages individuals to learn about their risk for heart disease.</p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <actionDate>2017-02-10</actionDate>
+          <name>Passed Senate without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <firstName>Mazie</firstName>
+        <bioguideId>H001042</bioguideId>
+        <middleName>K.</middleName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>Hirono</lastName>
+        <state>HI</state>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <laws />
+    <latestAction>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <actionDate>2017-02-10</actionDate>
+      <links />
+    </latestAction>
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2017-02-10</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-02-10</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <committee />
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-02-10</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S1092</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1092</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1092)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2017-02-10</actionDate>
+        <links>
+          <link>
+            <name>S1092</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1092</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1092)</text>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-02-03</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S681-682</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S681-682</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S681-682)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-03</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <agreedToInSenate>1</agreedToInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <committeeDischarged>1</committeeDischarged>
+      </actionTypeCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2017-02-10T19:21:42Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-03T16:28:01Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2018-09-19T14:20:33Z</updateDate>
+    <recordedVotes />
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

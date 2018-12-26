@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>A resolution denouncing the deadly attack at Fort Lauderdale-Hollywood International Airport, honoring the lives of the victims, offering condolences to their families, friends, and all those affected, and commending the efforts of law enforcement and emergency response personnel in responding to the incident.</title>
+    <sponsors>
+      <item>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <lastName>Rubio</lastName>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <bioguideId>R000595</bioguideId>
+        <firstName>Marco</firstName>
+        <middleName />
+        <byRequestType />
+        <party>R</party>
+        <state>FL</state>
+      </item>
+    </sponsors>
+    <amendments />
+    <introducedDate>2017-01-23</introducedDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A resolution denouncing the deadly attack at Fort Lauderdale-Hollywood International Airport, honoring the lives of the victims, offering condolences to their families, friends, and all those affected, and commending the efforts of law enforcement and emergency response personnel in responding to the incident.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>A resolution denouncing the deadly attack at Fort Lauderdale-Hollywood International Airport, honoring the lives of the victims, offering condolences to their families, friends, and all those affected, and commending the efforts of law enforcement and emergency response personnel in responding to the incident.</title>
+      </item>
+    </titles>
+    <committees>
+      <billCommittees />
+    </committees>
+    <billNumber>19</billNumber>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-01-23</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>Condemns the deadly attack at Fort Lauderdale-Hollywood International Airport on January 6, 2017.</p> <p>Honors the lives and memories of the victims killed in the attack and offers sincere condolences to their families and friends.</p> <p>Expresses hope for the full recovery of individuals who were injured. </p> <p>Commends the efforts of law enforcement and emergency response personnel who selflessly acted to secure the scene and assist those in need. </p> <UL> </UL> <BR>]]></text>
+          <lastSummaryUpdateDate>2017-01-26T14:44:44Z</lastSummaryUpdateDate>
+          <updateDate>2017-01-23T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <actionDate>2017-01-23</actionDate>
+          <name>Passed Senate without amendment</name>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Condemns the deadly attack at Fort Lauderdale-Hollywood International Airport on January 6, 2017.</p> <p>Honors the lives and memories of the victims killed in the attack and offers sincere condolences to their families and friends.</p> <p>Expresses hope for the full recovery of individuals who were injured.</p> <p>Commends the efforts of law enforcement and emergency response personnel who selflessly acted to secure the scene and assist those in need.</p>]]></text>
+          <lastSummaryUpdateDate>2017-02-01T15:14:39Z</lastSummaryUpdateDate>
+          <updateDate>2017-01-23T14:14:44Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <cboCostEstimates />
+    <updateDate>2018-09-19T14:20:24Z</updateDate>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>Florida</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <createDate>2017-01-24T05:12:19Z</createDate>
+    <version>1.0.0</version>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <middleName>WILLIAM</middleName>
+        <sponsorshipDate>2017-01-23</sponsorshipDate>
+        <firstName>CLARENCE</firstName>
+        <bioguideId>N000032</bioguideId>
+        <party>D</party>
+        <lastName>NELSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8236</gpoId>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+        </identifiers>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipDate>2017-01-23</sponsorshipDate>
+        <firstName>Joni</firstName>
+        <bioguideId>E000295</bioguideId>
+        <party>R</party>
+        <lastName>Ernst</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2283</lisID>
+          <gpoId />
+          <bioguideId>E000295</bioguideId>
+        </identifiers>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>IA</state>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <congress>115</congress>
+    <latestAction>
+      <actionDate>2017-01-23</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S404; text as passed Senate: CR S404)</text>
+      <links />
+    </latestAction>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-01-23</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S404</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S404</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S404; text as passed Senate: CR S404)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <actionDate>2017-01-23</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>S404</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S404</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S404; text as passed Senate: CR S404)</text>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-01-23</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+      </actionTypeCounts>
+    </actions>
+    <billType>SRES</billType>
+    <notes />
+    <laws />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

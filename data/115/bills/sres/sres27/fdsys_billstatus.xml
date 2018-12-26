@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution honoring the life and achievements of Eugene A. "Gene" Cernan.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>A resolution honoring the life and achievements of Eugene A. "Gene" Cernan.</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <type>SAMDT</type>
+        <purpose>To amend the preamble.</purpose>
+        <number>190</number>
+        <version>1.0.0</version>
+        <titles />
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <originChamber>Senate</originChamber>
+          <congress>115</congress>
+          <number>27</number>
+          <title>A resolution honoring the life and achievements of Eugene A. "Gene" Cernan.</title>
+          <originChamberCode>S</originChamberCode>
+          <type>SRES</type>
+        </amendedBill>
+        <congress>115</congress>
+        <notes />
+        <number>190</number>
+        <createDate>2017-02-03T10:18:05Z</createDate>
+        <purpose>To amend the preamble.</purpose>
+        <links />
+        <amendedAmendment />
+        <sponsors>
+          <item>
+            <middleName />
+            <firstName>Ted</firstName>
+            <lastName>Cruz</lastName>
+            <bioguideId>C001098</bioguideId>
+            <identifiers>
+              <bioguideId>C001098</bioguideId>
+              <lisID>2175</lisID>
+              <gpoId />
+            </identifiers>
+            <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+            <state>TX</state>
+            <party>R</party>
+          </item>
+        </sponsors>
+        <updateDate>2018-09-19T14:20:26Z</updateDate>
+        <proposedDate>2017-02-02T05:00:00Z</proposedDate>
+        <cosponsors>
+          <item>
+            <bioguideId>N000032</bioguideId>
+            <lastName>NELSON</lastName>
+            <middleName>WILLIAM</middleName>
+            <firstName>CLARENCE</firstName>
+            <state>FL</state>
+            <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+            <identifiers>
+              <gpoId>8236</gpoId>
+              <bioguideId>N000032</bioguideId>
+              <lisID>859</lisID>
+            </identifiers>
+            <party>D</party>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+            <sponsorshipDate>2017-02-02</sponsorshipDate>
+            <sponsorshipWithdrawnDate />
+          </item>
+          <currentCount>1</currentCount>
+          <totalCount>1</totalCount>
+        </cosponsors>
+        <actions>
+          <actionTypeCounts>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <amendmentProposed>1</amendmentProposed>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionDate>2017-02-02</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/190</url>
+                  <name>S.Amdt.190</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/190</url>
+                  <name>SA 190</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 190 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-02-02</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/190</url>
+                  <name>S.Amdt.190</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S661</url>
+                  <name>S661</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/190</url>
+                  <name>SA 190</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 190 proposed by Senator Crapo for Senator Cruz. (consideration: CR S661; text: CR S661) To amend the preamble.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-02-02</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <text>Senate amendment agreed to: Amendment SA 190 agreed to in Senate by Unanimous Consent.</text>
+              <actionDate>2017-02-02</actionDate>
+              <actionCode>94000</actionCode>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/190</url>
+                  <name>S.Amdt.190</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/190</url>
+                  <name>SA 190</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <type>Floor</type>
+            </item>
+            <item>
+              <text>Senate amendment proposed (on the floor): Amendment SA 190 proposed by Senator Crapo for Senator Cruz.(consideration: CR S661; text: CR S661)</text>
+              <actionDate>2017-02-02</actionDate>
+              <actionCode>93000</actionCode>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/190</url>
+                  <name>S.Amdt.190</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S661</url>
+                  <name>S661</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/190</url>
+                  <name>SA 190</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <type>Floor</type>
+            </item>
+            <item>
+              <text>Senate amendment submitted</text>
+              <actionDate>2017-02-02</actionDate>
+              <actionCode>91000</actionCode>
+              <committee />
+              <links />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <type>Floor</type>
+            </item>
+          </actions>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+          <count>6</count>
+        </actions>
+        <description />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <submittedDate>2017-02-02T05:00:00Z</submittedDate>
+        <type>SAMDT</type>
+        <description />
+        <latestAction>
+          <actionDate>2017-02-02</actionDate>
+          <text>Amendment SA 190 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
+        <congress>115</congress>
+      </amendment>
+    </amendments>
+    <actions>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S661</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S661</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S661)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <links>
+          <link>
+            <name>S661</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S661</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(text: CR S661)</text>
+        <committee />
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S660-661</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S660-661</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S660-661)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S455</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S455</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S455)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>7</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <agreedToInSenate>1</agreedToInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <committeeDischarged>1</committeeDischarged>
+      </actionTypeCounts>
+    </actions>
+    <congress>115</congress>
+    <relatedBills />
+    <updateDate>2018-09-19T14:20:26Z</updateDate>
+    <latestAction>
+      <text>Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S661)</text>
+      <links />
+      <actionDate>2017-02-02</actionDate>
+    </latestAction>
+    <billType>SRES</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Space flight and exploration</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>CLARENCE</firstName>
+        <bioguideId>N000032</bioguideId>
+        <middleName>WILLIAM</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8236</gpoId>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>NELSON</lastName>
+        <state>FL</state>
+      </item>
+      <item>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Gary</firstName>
+        <bioguideId>P000595</bioguideId>
+        <middleName>C.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Peters</lastName>
+        <state>MI</state>
+      </item>
+      <item>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>RICHARD</firstName>
+        <bioguideId>D000563</bioguideId>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>DURBIN</lastName>
+        <state>IL</state>
+      </item>
+      <item>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Chris</firstName>
+        <bioguideId>V000128</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1729</lisID>
+          <gpoId>7983</gpoId>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Van Hollen</lastName>
+        <state>MD</state>
+      </item>
+      <item>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Marco</firstName>
+        <bioguideId>R000595</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Rubio</lastName>
+        <state>FL</state>
+      </item>
+      <item>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JIM</firstName>
+        <bioguideId>I000024</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>INHOFE</lastName>
+        <state>OK</state>
+      </item>
+      <item>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Margaret</firstName>
+        <bioguideId>H001076</bioguideId>
+        <middleName>Wood</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2302</lisID>
+          <gpoId />
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Hassan</lastName>
+        <state>NH</state>
+      </item>
+      <item>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>John</firstName>
+        <bioguideId>C001056</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Cornyn</lastName>
+        <state>TX</state>
+      </item>
+      <item>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>JOHN</firstName>
+        <bioguideId>T000250</bioguideId>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>THUNE</lastName>
+        <state>SD</state>
+      </item>
+      <item>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>ROGER</firstName>
+        <bioguideId>W000437</bioguideId>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>WICKER</lastName>
+        <state>MS</state>
+      </item>
+      <item>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Cory</firstName>
+        <bioguideId>G000562</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1998</lisID>
+          <gpoId>7862</gpoId>
+          <bioguideId>G000562</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <lastName>Gardner</lastName>
+        <state>CO</state>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <createDate>2017-01-25T04:45:56Z</createDate>
+    <committeeReports />
+    <introducedDate>2017-01-24</introducedDate>
+    <sponsors>
+      <item>
+        <lastName>Cruz</lastName>
+        <middleName />
+        <firstName>Ted</firstName>
+        <state>TX</state>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <byRequestType />
+        <bioguideId>C001098</bioguideId>
+      </item>
+    </sponsors>
+    <title>A resolution honoring the life and achievements of Eugene A. "Gene" Cernan.</title>
+    <version>1.0.0</version>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-02-03T01:04:59Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-01-24T23:52:29Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-01-24</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>Honors the life of Gene Cernan who was a Navy aviator, fighter pilot, electrical engineer, and the last astronaut to walk on the Moon. </p>]]></text>
+          <lastSummaryUpdateDate>2017-03-16T19:25:58Z</lastSummaryUpdateDate>
+          <updateDate>2017-01-24T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <actionDate>2017-02-02</actionDate>
+          <name>Passed Senate without amendment</name>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Honors the life of Gene Cernan who was a Navy aviator, fighter pilot, electrical engineer, and the last astronaut to walk on the Moon. </p>]]></text>
+          <lastSummaryUpdateDate>2017-03-16T19:26:15Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-02T13:02:17Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <calendarNumbers />
+    <billNumber>27</billNumber>
+    <recordedVotes />
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

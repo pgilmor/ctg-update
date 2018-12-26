@@ -1,0 +1,27 @@
+<amendment session="115" chamber="s" number="191" updated="2018-09-19T14:18:58Z">
+  <amends sequence="" number="55" type="sr"/>
+  <status datetime="2017-02-17">pass</status>
+  <sponsor bioguide_id="M001153"/>
+  <offered datetime="2017-02-17"/>
+  <description>To improve the resolution.</description>
+  <actions>
+    <vote datetime="2017-02-17" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 191 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2017-02-17">
+      <text>Amendment SA 191 proposed by Senator Cornyn for Senator Murkowski. (consideration: S1416; text: CR S1416) To improve the resolution.</text>
+    </action>
+    <action datetime="2017-02-17"/>
+    <action datetime="2017-02-17">
+      <text>Senate amendment agreed to: Amendment SA 191 agreed to in Senate by Unanimous Consent.</text>
+    </action>
+    <action datetime="2017-02-17">
+      <text>Senate amendment proposed (on the floor): Amendment SA 191 proposed by Senator Cornyn for Senator Murkowski.</text>
+      <reference label="consideration" ref="S1416"/>
+      <reference label="text" ref="CR S1416"/>
+    </action>
+    <action datetime="2017-02-17">
+      <text>Senate amendment submitted</text>
+    </action>
+  </actions>
+</amendment>

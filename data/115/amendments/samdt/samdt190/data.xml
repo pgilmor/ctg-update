@@ -1,0 +1,27 @@
+<amendment session="115" chamber="s" number="190" updated="2018-09-19T14:20:26Z">
+  <amends sequence="" number="27" type="sr"/>
+  <status datetime="2017-02-02">pass</status>
+  <sponsor bioguide_id="C001098"/>
+  <offered datetime="2017-02-02"/>
+  <description>To amend the preamble.</description>
+  <actions>
+    <vote datetime="2017-02-02" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 190 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2017-02-02">
+      <text>Amendment SA 190 proposed by Senator Crapo for Senator Cruz. (consideration: CR S661; text: CR S661) To amend the preamble.</text>
+    </action>
+    <action datetime="2017-02-02"/>
+    <action datetime="2017-02-02">
+      <text>Senate amendment agreed to: Amendment SA 190 agreed to in Senate by Unanimous Consent.</text>
+    </action>
+    <action datetime="2017-02-02">
+      <text>Senate amendment proposed (on the floor): Amendment SA 190 proposed by Senator Crapo for Senator Cruz.</text>
+      <reference label="consideration" ref="CR S661"/>
+      <reference label="text" ref="CR S661"/>
+    </action>
+    <action datetime="2017-02-02">
+      <text>Senate amendment submitted</text>
+    </action>
+  </actions>
+</amendment>

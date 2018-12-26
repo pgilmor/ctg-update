@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <name>Rules and Administration Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-01T23:06:18Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>ssra00</systemCode>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Other</type>
+          <name>Indian Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-02-01T23:06:01Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <systemCode>slia00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>36</billNumber>
+    <updateDate>2018-09-19T14:20:29Z</updateDate>
+    <introducedDate>2017-02-01</introducedDate>
+    <calendarNumbers />
+    <relatedBills />
+    <billType>SRES</billType>
+    <notes />
+    <amendments />
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-01</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-03-03T23:42:37Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-01T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Committee on Indian Affairs for the 115th Congress.</p>]]></text>
+        </item>
+        <item>
+          <versionCode>80</versionCode>
+          <actionDate>2017-02-01</actionDate>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <name>Reported to Senate without amendment</name>
+          <lastSummaryUpdateDate>2017-03-03T23:42:48Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-01T14:43:39Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Authorizes expenditures by the Senate Committee on Indian Affairs for the 115th Congress.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>An original resolution authorizing expenditures by the Senate Committee on Indian Affairs.</title>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S601)</text>
+      <actionDate>2017-02-01</actionDate>
+    </latestAction>
+    <createDate>2017-02-02T05:28:46Z</createDate>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Indian Affairs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S601</url>
+            <name>S601</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S601)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Original measure reported to Senate by Senator Hoeven. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Indian Affairs Committee</name>
+          <systemCode>slia00</systemCode>
+        </committee>
+        <text>Committee on Indian Affairs. Original measure reported to Senate by Senator Hoeven. Without written report.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>14000</actionCode>
+        <type>Committee</type>
+        <actionDate>2017-02-01</actionDate>
+        <links />
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <actionDate>2017-02-01</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <reportedToSenate>1</reportedToSenate>
+        <originalBillReported>1</originalBillReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+    </actions>
+    <congress>115</congress>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>An original resolution authorizing expenditures by the Senate Committee on Indian Affairs.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>An original resolution authorizing expenditures by the Senate Committee on Indian Affairs.</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <byRequestType />
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <identifiers>
+          <bioguideId>H001061</bioguideId>
+          <lisID>2079</lisID>
+          <gpoId>8331</gpoId>
+        </identifiers>
+        <state>ND</state>
+        <lastName>Hoeven</lastName>
+        <middleName />
+        <party>R</party>
+        <bioguideId>H001061</bioguideId>
+        <firstName>John</firstName>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+
