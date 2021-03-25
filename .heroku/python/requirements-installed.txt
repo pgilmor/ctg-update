@@ -12,7 +12,7 @@ mock==2.0.0
 pbr==5.1.1
 python-dateutil==1.5
 pytz==2018.7
-PyYAML==3.13
+PyYAML==5.4
 requests==2.21.0
 rtyaml==0.0.5
 scrapelib==0.10.1
