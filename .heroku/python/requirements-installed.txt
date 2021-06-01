@@ -17,6 +17,6 @@ requests==2.21.0
 rtyaml==0.0.5
 scrapelib==0.10.1
 six==1.12.0
-urllib3==1.24.1
+urllib3==1.26.5
 webencodings==0.5.1
 xmltodict==0.11.0
